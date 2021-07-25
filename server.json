@@ -1,0 +1,60 @@
+{
+  "produtos": [
+      {
+          "id": 1,
+          "photo": "https://static.netshoes.com.br/produtos/tenis-infantil-asics-buzz-2-gs/76/D18-1244-076/D18-1244-076_zoom1.jpg",
+          "name": "Tenis Adidas",
+          "description": "Azul, nº 40, sem uso",
+          "price": 600
+      },
+      {
+        "id": 2,
+        "photo": "https://th.bing.com/th/id/OIP.o5d_9HVEdGTFOET4JEVnGAHaHa?pid=ImgDet&rs=1",
+        "name": "Celular2",
+        "description": "Descrição do produto",
+        "price": 5000
+    },
+      {
+        "id": 3,
+        "photo": "https://http2.mlstatic.com/tenis-asics-gel-toque-br-futsal-tenis-volei-masculino-branco-D_NQ_NP_829700-MLB27387171268_052018-F.jpg",
+        "name": "Celular2",
+        "description": "Descrição do produto",
+        "price": 5000
+    },
+      {
+        "id": 4,
+        "photo": "https://pequenamila.com.br/wp-content/uploads/2019/12/81RksRVEQSL.jpg",
+        "name": "Celular2",
+        "description": "Descrição do produto",
+        "price": 5000
+    },
+      {
+        "id": 5,
+        "photo": "https://http2.mlstatic.com/tenis-feminino-caminhada-academia-esportivo-dourado-barato-D_NQ_NP_853996-MLB26225338285_102017-F.jpg",
+        "name": "Celular2",
+        "description": "Descrição do produto",
+        "price": 5000
+      },
+      {
+        "id": 6,
+        "photo": "https://static.netshoes.com.br/produtos/tenis-everlast-esportivo-thunder-ii-masculino/12/AXB-1895-012/AXB-1895-012_zoom1.jpg?ts=1587460991&",
+        "name": "Celular2",
+        "description": "Descrição do produto",
+        "price": 5000
+      },
+      {
+        "id": 7,
+        "photo": "https://static.zattini.com.br/produtos/tenis-adidas-energy-cloud-v-feminino/38/COL-2051-038/COL-2051-038_zoom1.jpg",
+        "name": "Celular2",
+        "description": "Descrição do produto",
+        "price": 5000
+      },
+      {
+        "id": 8,
+        "photo": "https://http2.mlstatic.com/tenis-masculino-sapatenis-yzy-yeezy-barato-lancamento-2018-D_NQ_NP_659970-MLB28835041487_112018-F.jpg",
+        "name": "Celular2",
+        "description": "Descrição do produto",
+        "price": 5000
+      }
+        ]
+}
